@@ -20,7 +20,8 @@
 * HashMap Value 最小値カウント方法 30分
 ### 残タスク
 
-* AIZU java実施基本編DAY2 0715~0718
+* AIZU java実施基本編DAY2 0714
+* AIZU java実施基本編DAY3 0715~0718
 ### 今日の日報にかかった時間
 
 * 20分
