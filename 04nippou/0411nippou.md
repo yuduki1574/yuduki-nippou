@@ -18,7 +18,6 @@
 ### 今日の検索ワード
 
 * HashMap map List変換 30分
-* HashMap map List変換 30分
 ### 残タスク
 
 * AIZU java実施基本編DAY2 0714
