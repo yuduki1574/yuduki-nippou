@@ -10,7 +10,7 @@
 ### 今日の検索ワード
 
 * 研修発表 スライド画像 Listイメージ画像 https://images.app.goo.gl/Ra261EDaazv92D3e8 15分
-* 研修発表 スライド画像 HashMapイメージ画像 15分
+* 研修発表 スライド画像 HashMapイメージ画像 https://plog.shinmaiblog.com/java-program-hashmap/ 15分
 ### 残タスク
 
 * なし
