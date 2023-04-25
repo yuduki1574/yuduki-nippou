@@ -6,13 +6,15 @@
 
 ### 本日の作業内容
 
-* 研修発表 パワポ修正 7時間
+* 研修発表 パワポ作成 3時間
+* 研修発表 パワポレビュー 1時間
+* 研修発表 パワポ修正 4時間
 ### 今日の検索ワード
 
-* Jamstackの定義 https://www.pxgrid.com/jamstack/ 15分
-* サーバーレス https://blog.qbist.co.jp/?p=2654 15分
-* APIの定義 https://camp.trainocate.co.jp/magazine/howto-api-key/ 15分
-* API連携 https://www.contents.digitallab.jp/api.html 15分
+* Jamstack https://www.pxgrid.com/jamstack/
+* サーバーレス https://blog.qbist.co.jp/?p=2654
+* apiキー 例 https://camp.trainocate.co.jp/magazine/howto-api-key/
+* apiキー 例 https://www.contents.digitallab.jp/api.html
 ### 残タスク
 
 * 研修発表 レビュー修正
@@ -22,6 +24,5 @@
 ### 翌営業日の作業予定
 
 * 研修発表 レビュー修正
-* microCMS チュートリアル11
 ### 備考
 * なし
