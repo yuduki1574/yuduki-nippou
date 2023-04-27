@@ -11,14 +11,15 @@
 ### 今日の検索ワード
 
 * mac mysql https://qiita.com/fuwamaki/items/194c2a82bd6865f26045
-* mysql workbench https://qiita.com/dodomasaki/items/ad64bd86c116a7e875e8
-* mysql workbench https://dev.mysql.com/downloads/workbench/
+* mysql workbench
+  * https://qiita.com/dodomasaki/items/ad64bd86c116a7e875e8
+  * https://dev.mysql.com/downloads/workbench/
 ### 残タスク
 
-* udemy java Spring講座 セクション3
+* なし
 ### 今日の日報にかかった時間
 
-* 30分
+* 20分
 ### 翌営業日の作業予定
 
 * 研修発表
