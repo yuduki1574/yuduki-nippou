@@ -7,7 +7,7 @@
 ### 本日の作業内容
 
 * 研修発表 パワポ修正 4時間30分
-* udemy java Spring講座 セクション1~セクション2 2時間30分
+* udemy java Spring講座 セクション2 2時間30分
 ### 今日の検索ワード
 * eclipse spring boot localhost パス変更 https://intellectual-curiosity.tokyo/2019/04/13/spring-boot%E3%81%A7hello-world/
 * eclipse Spring Boot プロパティ https://blog.tagbangers.co.jp/2019/07/12/how-spring-deals-with-properties
